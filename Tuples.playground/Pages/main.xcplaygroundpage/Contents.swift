@@ -17,7 +17,7 @@
 // write your code here
 
 
-
+var tuple = ("tyler", 30)
 
 
 
@@ -28,7 +28,7 @@
  */
 // write your code here
 
-
+print("\(tuple.0) is \(tuple.1) years old")
 
 
 
@@ -41,7 +41,7 @@
 // write your code here
 
 
-
+tuple.1 + 1
 
 
 
@@ -54,7 +54,7 @@
 
 
 
-
+print("Happy \(tuple.1) birthday, \(tuple.0)")
 
 
 
@@ -65,6 +65,8 @@
 // write your code here
 
 
+
+var someone = (name: "josh", age: 4)
 
 
 
@@ -78,7 +80,7 @@
 
 
 
-
+print("\(someone.0) is \(someone.1) years old")
 
 
 
@@ -90,7 +92,7 @@
 
 
 
-
+someone.1 + 1
 
 
 /*:
@@ -99,7 +101,7 @@
 // write your code here
 
 
-
+print("Happy \(someone.1) birthday, \(someone.0)")
 
 
 
@@ -113,7 +115,7 @@
 
 
 
-
+let humam = (name: "grace", age: 27)
 
 
 
